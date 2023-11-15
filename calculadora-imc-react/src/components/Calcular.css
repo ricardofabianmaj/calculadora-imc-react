@@ -1,0 +1,12 @@
+div.Resultado p {
+    color: black;
+}
+#imc {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+.estado {
+    text-align: center;
+    font-weight: bolder;
+}
